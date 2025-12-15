@@ -1,7 +1,7 @@
 [README.md](https://github.com/user-attachments/files/24173811/README.md)
 # 📚 Kütüphane Yönetim Sistemi (Java Swing & MySQL)
 
-## Proje Tanımı
+## Proje Tanımı.
 
 Bu uygulama, bir kütüphane içindeki envanter yönetimini, kullanıcı rollerini ve operasyonel süreçleri yönetmek üzere tasarlanmıştır. Proje, temiz, sürdürülebilir ve esnek bir mimari sağlamak amacıyla **altı temel Tasarım Deseni (Design Patterns)** kullanılarak **Nesne Yönelimli Programlama (OOP)** prensiplerine uygun olarak geliştirilmiştir.
 
